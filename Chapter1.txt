@@ -1,0 +1,1 @@
+This is the first file in Github after learning how to push it from local git repository,
